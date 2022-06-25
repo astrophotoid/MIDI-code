@@ -544,7 +544,7 @@
 	<!-- As configured here, QLinks are configured to control: Attenuverters, ADSR, Transpose and tuning, and Delay parameters, modify to suit -->
       <ProgramMode>
         <QLink index="1">
-          <Parameter>1/Parameter>
+          <Parameter>1</Parameter>
           <Momentary>0</Momentary>
         </QLink>
         <QLink index="2">
