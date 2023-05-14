@@ -1,0 +1,142 @@
+[cubase parse file]
+[parser version 0001]
+
+[creators first name]CYLPA
+[creators last name]CYLPA
+[device manufacturer]YAMAHA
+[device name]TX81Z
+[script name]Yamaha TX81Z
+[script version]version 1.00
+
+[define patchnames]
+
+[g1]		Patches
+[p2, 0, -1, -1]		I01
+[p2, 1, -1, -1]		I02
+[p2, 2, -1, -1]		I03
+[p2, 3, -1, -1]		I04
+[p2, 4, -1, -1]		I05
+[p2, 5, -1, -1]		I06
+[p2, 6, -1, -1]		I07
+[p2, 7, -1, -1]		I08
+[p2, 8, -1, -1]		I09
+[p2, 9, -1, -1]		I10
+[p2, 10, -1, -1]	I11
+[p2, 11, -1, -1]	I12
+[p2, 12, -1, -1]	I13
+[p2, 13, -1, -1]	I14
+[p2, 14, -1, -1]	I15
+[p2, 15, -1, -1]	I16
+[p2, 16, -1, -1]	I17
+[p2, 17, -1, -1]	I18
+[p2, 18, -1, -1]	I19
+[p2, 19, -1, -1]	I20
+[p2, 20, -1, -1]	I21
+[p2, 21, -1, -1]	I22
+[p2, 22, -1, -1]	I23
+[p2, 23, -1, -1]	I24
+[p2, 24, -1, -1]	I25
+[p2, 25, -1, -1]	I26
+[p2, 26, -1, -1]	I27
+[p2, 27, -1, -1]	I28
+[p2, 28, -1, -1]	I29
+[p2, 29, -1, -1]	I30
+[p2, 30, -1, -1]	I31
+[p2, 31, -1, -1]	I32
+[p2, 32, -1, -1]	D01 BaadBreath
+[p2, 33, -1, -1]	D02 VocalNuts
+[p2, 34, -1, -1]	D03 KrstlChoir
+[p2, 35, -1, -1]	D04 Metalimba
+[p2, 36, -1, -1]	D05 WaterGlass
+[p2, 37, -1, -1]	D06 BowdBell
+[p2, 38, -1, -1]	D07 WOW
+[p2, 39, -1, -1]	D08 Fuzzy Koto 
+[p2, 40, -1, -1]	D09 Spc Midiot
+[p2, 41, -1, -1]	D10 Gurgle
+[p2, 42, -1, -1]	D11 Hole in 1
+[p2, 43, -1, -1]	D12 Birds
+[p2, 44, -1, -1]	D13 MalibuNite
+[p2, 45, -1, -1]	D14 Helicopter
+[p2, 46, -1, -1]	D15 Flight Sim
+[p2, 47, -1, -1]	D16 Brithbells
+[p2, 48, -1, -1]	D17 Storm Wind
+[p2, 49, -1, -1]	D18 Alarm Call
+[p2, 50, -1, -1]	D19 Racing Car
+[p2, 51, -1, -1]	D20 Whistling
+[p2, 52, -1, -1]	D21 Space Talk
+[p2, 53, -1, -1]	D22 Space Vibe
+[p2, 54, -1, -1]	D23 Timpani
+[p2, 55, -1, -1]	D24 FM Hi-Hats
+[p2, 56, -1, -1]	D25 Bass Drum
+[p2, 57, -1, -1]	D26 Tube Bells
+[p2, 58, -1, -1]	D27 Noise Shot
+[p2, 59, -1, -1]	D28 Snare 1
+[p2, 60, -1, -1]	D29 Snare 2
+[p2, 61, -1, -1]	D30 Hand Drum
+[p2, 62, -1, -1]	D31 Synballs
+[p2, 63, -1, -1]	D32 Efem Toms
+[p2, 64, -1, -1]	PF01
+[p2, 65, -1, -1]	PF02
+[p2, 66, -1, -1]	PF03
+[p2, 67, -1, -1]	PF04
+[p2, 68, -1, -1]	PF05
+[p2, 69, -1, -1]	PF06
+[p2, 70, -1, -1]	PF07
+[p2, 71, -1, -1]	PF08
+[p2, 72, -1, -1]	PF09
+[p2, 73, -1, -1]	PF10
+[p2, 74, -1, -1]	PF11
+[p2, 75, -1, -1]	PF12
+[p2, 76, -1, -1]	PF13
+[p2, 77, -1, -1]	PF14
+[p2, 78, -1, -1]	PF15
+[p2, 79, -1, -1]	PF16
+[p2, 80, -1, -1]	PF17
+[p2, 81, -1, -1]	PF18
+[p2, 82, -1, -1]	PF19
+[p2, 83, -1, -1]	PF20
+[p2, 84, -1, -1]	PF21
+[p2, 85, -1, -1]	PF22
+[p2, 86, -1, -1]	PF23
+[p2, 87, -1, -1]	PF24
+[p2, 88, -1, -1]	B25 ReverbStrg
+[p2, 89, -1, -1]	B26 SynString
+[p2, 90, -1, -1]	B27 Voices
+[p2, 91, -1, -1]	B28 HarmoPad
+[p2, 92, -1, -1]	B29 FanfarTpts
+[p2, 93, -1, -1]	B30 HiString 2
+[p2, 94, -1, -1]	B31 PercFlute
+[p2, 95, -1, -1]	B32 BreathOrgn
+[p2, 96, -1, -1]	C01 NylonGuit
+[p2, 97, -1, -1]	C02 Guitar #1
+[p2, 98, -1, -1]	C03 TwelveStrg
+[p2, 99, -1, -1]	C04 Funky Pick
+[p2, 100, -1, -1]	C05 AllThatJaz
+[p2, 101, -1, -1]	C06 HeavyMetal
+[p2, 102, -1, -1]       C07 Old Banjo
+[p2, 103, -1, -1]	C08 Zither
+[p2, 104, -1, -1]	C09 ElecBass 1
+[p2, 105, -1, -1]	C10 SqncrBass
+[p2, 106, -1, -1]	C11 SynFunkBas
+[p2, 107, -1, -1]	C12 ElecBass 2
+[p2, 108, -1, -1]	C13 AnalogBass
+[p2, 109, -1, -1]	C14 Jaco Bass
+[p2, 110, -1, -1]	C15 LatelyBass
+[p2, 111, -1, -1]	C16 MonophBass
+[p2, 112, -1, -1]	C17 StadiumSol
+[p2, 113, -1, -1]	C18 TrumptSolo
+[p2, 114, -1, -1]	C19 BCSexyPhon
+[p2, 115, -1, -1]	C20 Lyrisyn
+[p2, 116, -1, -1]	C21 WarmSquare
+[p2, 117, -1, -1]	C22 Sync Lead
+[p2, 118, -1, -1]	C23 MellowSqar
+[p2, 119, -1, -1]	C24 Jazz Flute
+[p2, 120, -1, -1]	C25 HeavyLead
+[p2, 121, -1, -1]	C26 Java Jive
+[p2, 122, -1, -1]	C27 Xylophone
+[p2, 123, -1, -1]	C28 GreatVibes
+[p2, 124, -1, -1]	C29 Sitar
+[p2, 125, -1, -1]	C30 Bell Pad
+[p2, 126, -1, -1]	C31 PlasticHit
+[p2, 127, -1, -1]	C32 DigiAnnie
+[end]
