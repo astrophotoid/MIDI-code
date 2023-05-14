@@ -1,0 +1,306 @@
+[cubase parse file]
+[parser version 0001]
+
+[creators first name]Mark
+[creators last name]Crowther
+[device manufacturer]ROLAND
+[device name]Roland JD-08
+[script name]Roland JD-08
+[script version]version 1.00
+
+[define patchnames]
+
+[g1]		Group A
+[p2, 0, 0, 0]	Millennium
+[p2, 1, 0, 0]	Massive Pad
+[p2, 2, 0, 0]	Crystal Rhodes
+[p2, 3, 0, 0]	Synthadelic Bass
+[p2, 4, 0, 0]	Wailing Guitar
+[p2, 5, 0, 0]	Fantasia 90's
+[p2, 6, 0, 0]	Spun Glass
+[p2, 7, 0, 0]	Mother Afrika!
+[p2, 8, 0, 0]	Swimotion
+[p2, 9, 0, 0]	Classic Sweeper
+[p2, 10, 0, 0]	LA MIDI'ed Piano
+[p2, 11, 0, 0]	Meaty Bass
+[p2, 12, 0, 0]	Stratomaster
+[p2, 13, 0, 0]	Perc-Vox Stack
+[p2, 14, 0, 0]	Killer Pad
+[p2, 15, 0, 0]	Waveblower
+[p2, 16, 0, 0]	Sci-Fi Groove
+[p2, 17, 0, 0]	Mr.Brass!
+[p2, 18, 0, 0]	Bruiser Tines
+[p2, 19, 0, 0]	Wet Bass
+[p2, 20, 0, 0]	Throaty Clav
+[p2, 21, 0, 0]	Rockin' Wire
+[p2, 22, 0, 0]	Iceman
+[p2, 23, 0, 0]	Ming Dynasty
+[p2, 24, 0, 0]	Planetarium
+[p2, 25, 0, 0]	Pulse Pad
+		[p2, 26, 0, 0]	All Stops Out
+[p2, 27, 0, 0]	Fusion Solo
+[p2, 28, 0, 0]	MIDI Guitar
+[p2, 29, 0, 0]	Pain&Injury Keyz
+[p2, 30, 0, 0]	Deep Breath Pad
+[p2, 31, 0, 0]	Harlequin
+[p2, 32, 0, 0]	Slow Bell Pad
+[p2, 33, 0, 0]	Analog Brass
+[p2, 34, 0, 0]	Ac.Piano 1
+[p2, 35, 0, 0]	Modular Bass
+[p2, 36, 0, 0]	Clavinut
+[p2, 37, 0, 0]	Vocostrat
+[p2, 38, 0, 0]	Invocation
+[p2, 39, 0, 0]	Ethnic Logs
+[p2, 40, 0, 0]	2-way Slide
+[p2, 41, 0, 0]	Macho Swell
+[p2, 42, 0, 0]	Sunday Best
+[p2, 43, 0, 0]	Synth Pipe Solo
+[p2, 44, 0, 0]	Nylon Choir
+[p2, 45, 0, 0]	Scraping Bone
+[p2, 46, 0, 0]	Hybrid Strings
+[p2, 47, 0, 0]	JD-bells 1
+[p2, 48, 0, 0]	1974!
+[p2, 49, 0, 0]	Polysynth
+[p2, 50, 0, 0]	Metallic Rhodes
+[p2, 51, 0, 0]	Face Bass
+[p2, 52, 0, 0]	Velo-Crunch
+[p2, 53, 0, 0]	Stack Attack!
+[p2, 54, 0, 0]	Girlish Vox
+[p2, 55, 0, 0]	Shakuflute
+[p2, 56, 0, 0]	Aurora Borealis
+[p2, 57, 0, 0]	Pulsation
+[p2, 58, 0, 0]	Waveola Keys
+[p2, 59, 0, 0]	Tekno Funk Bass
+[p2, 60, 0, 0]	Backwards *60's
+[p2, 61, 0, 0]	Chinkvox/Bass
+[p2, 62, 0, 0]	Bottle It
+[p2, 63, 0, 0]	Doo Pipes
+
+[g1]		Group B
+
+[p2, 64, 0, 0]	EDM Pluck
+[p2, 65, 0, 0]	My First Synth
+[p2, 66, 0, 0]	80's Vision[p2, 67, 0, 0]	Humen Lead[p2, 68, 0, 0]	Clav Nation[p2, 69, 0, 0]	Drum Kit Analog[p2, 70, 0, 0]	Drum Kit OD[p2, 71, 0, 0]	M.Glasses&Spoons[p2, 72, 0, 0]	Modern Design[p2, 73, 0, 0]	Bow to Enter[p2, 74, 0, 0]	Rubber Dulcimer[p2, 75, 0, 0]	Space Bowls[p2, 76, 0, 0]	Legend Stories[p2, 77, 0, 0]	Vapor Organ[p2, 78, 0, 0]	JD!![p2, 79, 0, 0]	Glitch Bass[p2, 80, 0, 0]	That Rubber Band[p2, 81, 0, 0]	Sacred Dist[p2, 82, 0, 0]	String Too Long[p2, 83, 0, 0]	Hyper Marimba[p2, 84, 0, 0]	Fake EP
+
+[p2, 85, 0, 0]	INIT
+
+[p2, 86, 0, 0]	INIT
+
+[p2, 87, 0, 0]	INIT
+
+[p2, 88, 0, 0]	INIT
+
+[p2, 89, 0, 0]	INIT
+
+[p2, 90, 0, 0]	INIT
+
+[p2, 91, 0, 0]	INIT
+
+[p2, 92, 0, 0]	INIT
+
+[p2, 93, 0, 0]	INIT
+
+[p2, 94, 0, 0]	INIT
+
+[p2, 95, 0, 0]	INIT
+
+[p2, 96, 0, 0]	INIT
+
+[p2, 97, 0, 0]	INIT
+
+[p2, 98, 0, 0]	INIT
+
+[p2, 99, 0, 0]	INIT
+
+[p2, 100, 0, 0]	INIT
+
+[p2, 101, 0, 0]	INIT
+
+[p2, 102, 0, 0]	INIT
+
+[p2, 103, 0, 0]	INIT
+
+[p2, 104, 0, 0]	INIT
+
+[p2, 105, 0, 0]	INIT
+
+[p2, 106, 0, 0]	INIT
+
+[p2, 107, 0, 0]	INIT
+
+[p2, 108, 0, 0]	INIT
+
+[p2, 109, 0, 0]	INIT
+
+[p2, 110, 0, 0]	INIT
+
+[p2, 111, 0, 0]	INIT
+
+[p2, 112, 0, 0]	INIT
+
+[p2, 113, 0, 0]	INIT
+
+[p2, 114, 0, 0]	INIT
+
+[p2, 115, 0, 0]	INIT
+
+[p2, 116, 0, 0]	INIT
+
+[p2, 117, 0, 0]	INIT
+
+[p2, 118, 0, 0]	INIT
+
+[p2, 119, 0, 0]	INIT
+
+[p2, 120, 0, 0]	INIT
+
+[p2, 121, 0, 0]	INIT
+
+[p2, 122, 0, 0]	INIT
+
+[p2, 123, 0, 0]	INIT
+
+[p2, 124, 0, 0]	INIT
+
+[p2, 125, 0, 0]	INIT
+
+[p2, 126, 0, 0]	INIT
+
+[p2, 127, 0, 0]	INIT
+
+[g1]		Group C
+
+[p2, 0, 1, 1]	LEADS
+[p2, 1, 1, 1]	LD Never Look Back 1 DC
+[p2, 2, 1, 1]	LD Never Look Back 2 DC
+[p2, 3, 1, 1]	LD Astarte DC
+[p2, 4, 1, 1]	LD Singularity DC
+[p2, 5, 1, 1]	LD Back DC
+[p2, 6, 1, 1]	LD Highway DC
+[p2, 7, 1, 1]	LD Huge Saws DC
+[p2, 8, 1, 1]	LD Opus 17 DC
+[p2, 9, 1, 1]	LD Sacred DC
+[p2, 10, 1, 1]	LD Fever DC
+[p2, 11, 1, 1]	LD 1999 DC
+[p2, 12, 1, 1]	LD Atmosphere DC
+[p2, 13, 1, 1]	LD Ace DC
+[p2, 14, 1, 1]	LD Kalt DC
+[p2, 15, 1, 1]	LD Empire DC
+[p2, 16, 1, 1]	LD Cassandra DC
+[p2, 17, 1, 1]	LD Chains DC
+[p2, 18, 1, 1]	LD Waimea DC
+[p2, 19, 1, 1]	PLUCKS
+[p2, 20, 1, 1]	PL Basic SW DC
+[p2, 21, 1, 1]	PL Basic SQ DC
+[p2, 22, 1, 1]	PL Alpenglow DC
+[p2, 23, 1, 1]	PL Autumn DC
+[p2, 24, 1, 1]	PL Skylarking DC
+[p2, 25, 1, 1]	PL Insomnia DC
+[p2, 26, 1, 1]	PL Eternity DC
+[p2, 27, 1, 1]	PL Amurai DC
+[p2, 28, 1, 1]	PL Love U More DC
+[p2, 29, 1, 1]	PL Ecstasy DC
+[p2, 30, 1, 1]	PL Classic DC
+[p2, 31, 1, 1]	PL Lift DC
+[p2, 32, 1, 1]	PL Resurrection DC
+[p2, 33, 1, 1]	PL Here 4 Me DC
+[p2, 34, 1, 1]	PL Helion DC
+[p2, 35, 1, 1]	PL Del Mar DC
+[p2, 36, 1, 1]	PL Vitus DC
+[p2, 37, 1, 1]	PL Arise DC
+[p2, 38, 1, 1]	PL Angel DC
+[p2, 39, 1, 1]	PADS
+[p2, 40, 1, 1]	PD Destiny DC
+[p2, 41, 1, 1]	PD Alpenglow DC
+[p2, 42, 1, 1]	PD Waterfalls DC
+[p2, 43, 1, 1]	PD Tactics DC
+[p2, 44, 1, 1]	PD Bass Pad 1 DC
+[p2, 45, 1, 1]	PD Bass Pad 2 DC
+[p2, 46, 1, 1]	PD Bass Pad 3 DC
+[p2, 47, 1, 1]	PD Bass Pad 4 DC
+[p2, 48, 1, 1]	PD Cirque DC
+[p2, 49, 1, 1]	PD Neve DC
+[p2, 50, 1, 1]	PD Dawnfire DC
+[p2, 51, 1, 1]	PD Snowfield DC
+[p2, 52, 1, 1]	PD Wisps DC
+[p2, 53, 1, 1]	PD Licht DC
+[p2, 54, 1, 1]	PD SuperSQ DC
+[p2, 55, 1, 1]	PD TwinSaws DC
+[p2, 56, 1, 1]	PD Holy DC
+[p2, 57, 1, 1]	PD Cirrus DC
+[p2, 58, 1, 1]	PD Shimmers DC
+[p2, 59, 1, 1]	LEADS 2
+[p2, 60, 1, 1]	LD Heavenly DC
+[p2, 61, 1, 1]	LD Advanced DC
+[p2, 62, 1, 1]	LD Loneliness DC
+[p2, 63, 1, 1]	LD Trance&Acid DC
+
+[g1]	Group D
+
+[p2, 64, 1, 1]	LD Altitude DC
+[p2, 65, 1, 1]	LD Here I Am DC
+[p2, 66, 1, 1]	LD Sunset DC
+[p2, 67, 1, 1]	LD Human DC
+[p2, 67, 1, 1]	LD Memory D
+[p2, 69, 1, 1]	ACID
+[p2, 70, 1, 1]	AC Blood DC
+[p2, 71, 1, 1]	AC Deep DC
+[p2, 72, 1, 1]	AC Basic SW DC
+[p2, 73, 1, 1]	AC Basic SQ DC
+[p2, 74, 1, 1]	AC Heavy DC
+[p2, 75, 1, 1]	AC Shrieky DC
+[p2, 76, 1, 1]	AC Lofi DC
+[p2, 77, 1, 1]	AC Destruction SC
+[p2, 78, 1, 1]	AC Dirty DC
+[p2, 79, 1, 1]	BASSES
+[p2, 80, 1, 1]	BA Sub 1 DC
+[p2, 81, 1, 1]	BA Sub 2 DC
+[p2, 82, 1, 1]	BA Sub 3 DC
+[p2, 83, 1, 1]	BA Sub 4 DC
+[p2, 84, 1, 1]	BA Mid 1 DC
+[p2, 85, 1, 1]	BA Mid 2 DC
+[p2, 86, 1, 1]	BA Mid 3 DC
+[p2, 87, 1, 1]	BA Mid 4 DC
+[p2, 88, 1, 1]	BA Bandsaw DC
+[p2, 89, 1, 1]	BA Plucky Pulse DC
+[p2, 90, 1, 1]	BA Long Chorus Bass DC
+[p2, 91, 1, 1]	BA Kisses DC
+[p2, 92, 1, 1]	BA FMish 1 DC
+[p2, 93, 1, 1]	BA FMish 2 DC
+[p2, 94, 1, 1]	BA God DC
+[p2, 95, 1, 1]	BA Picotto DC
+[p2, 96, 1, 1]	BA FeelBeat DC
+[p2, 97, 1, 1]	BA Control DC
+[p2, 98, 1, 1]	BA Look DC
+[p2, 99, 1, 1]	BLANKS
+[p2, 100, 1, 1]	INIT
+[p2, 101, 1, 1]	INIT
+[p2, 102, 1, 1]	INIT
+[p2, 103, 1, 1]	INIT
+[p2, 104, 1, 1]	INIT
+[p2, 105, 1, 1]	INIT
+[p2, 106, 1, 1]	INIT
+[p2, 107, 1, 1]	INIT
+[p2, 108, 1, 1]	INIT
+[p2, 109, 1, 1]	INIT
+[p2, 110, 1, 1]	INIT
+[p2, 111, 1, 1]	INIT
+[p2, 112, 1, 1]	INIT
+[p2, 113, 1, 1]	INIT
+[p2, 114, 1, 1]	INIT
+[p2, 115, 1, 1]	INIT
+[p2, 116, 1, 1]	INIT
+[p2, 117, 1, 1]	INIT
+[p2, 118, 1, 1]	INIT
+[p2, 119, 1, 1]	INIT
+[p2, 120, 1, 1]	INIT
+[p2, 121, 1, 1]	INIT
+[p2, 122, 1, 1]	INIT
+[p2, 123, 1, 1]	INIT
+[p2, 124, 1, 1]	INIT
+[p2, 125, 1, 1]	INIT
+[p2, 126, 1, 1]	INIT
+[p2, 127, 1, 1]	INIT
+
+
+[end]
